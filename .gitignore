@@ -1,0 +1,10 @@
+# Object files
+*.o
+
+# Executable files
+lexical_analyser
+lexer
+a.out
+
+# Temporary editor files
+*.save
